@@ -2,7 +2,7 @@
 
 variable "gcp_project" {
      description = "The project to deploy to, if not set the default provider project is used."
-     default     = "innate-shape-167219"
+     default     = "test"
 }
 
 variable "gcp_region" {
